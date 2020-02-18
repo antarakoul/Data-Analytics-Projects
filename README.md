@@ -1,14 +1,17 @@
 # Data Analytics Projects
 
--- To be updated
+* **[Superbowl Game Analysis](https://github.com/antarakoul/Data-Analytics-Projects/blob/master/Datacamp-Projects/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game%20Analysis.ipynb)** - Data cleaning and Exploratory Data Analysis (EDA) on superbowl game to understand:
+   * What are the most extreme game outcomes?
+   * How does the game affect television viewership?
+   * How have viewership, TV ratings, and ad cost evolved over time?
+   * Who are the most prolific musicians in terms of halftime show performances?
+ * python libraries used `pandas`, `matplotlib`, `seaborn`
+ 
 
-- Course Brief description 
-- Course Review
-- Certificate and course link
 
 
-### [Python Programmer track](https://www.datacamp.com/tracks/python-programming?version=1)
-  * [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/321ec4346cd4e2d7253fb18971552543e7c10383)
+
+
 
 
 
