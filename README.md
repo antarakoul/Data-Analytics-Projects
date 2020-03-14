@@ -5,7 +5,7 @@
    * How does the game affect television viewership?
    * How have viewership, TV ratings, and ad cost evolved over time?
    * Who are the most prolific musicians in terms of halftime show performances?
- * python libraries used `pandas`, `matplotlib`, `seaborn`
+  * python libraries used `pandas`, `matplotlib`, `seaborn`
  
 * **[Generating Keywords for Google Ads](https://github.com/antarakoul/Data-Analytics-Projects/blob/master/Datacamp-Projects/Generating%20Keywords%20for%20Google%20Ads.ipynb)** - Data Manipulation to create a prototype set of keywords for search campaigns for a digital marketing agency
    * python libraries used `pandas`
